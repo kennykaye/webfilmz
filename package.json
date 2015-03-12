@@ -1,0 +1,27 @@
+{
+  "name": "webfilmz",
+  "version": "0.1.0",
+  "description": "A fictitious movie recomendation application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kennykaye/webfilmz.git"
+  },
+  "author": "Kenny Kaye <kenny@kaye.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennykaye/webfilmz/issues"
+  },
+  "homepage": "https://github.com/kennykaye/webfilmz",
+  "dependencies": {
+    "express": "^4.12.2",
+    "mongoose": "^3.8.24",
+    "morgan": "^1.5.1"
+  },
+  "devDependencies": {
+    "line-reader": "^0.2.4"
+  }
+}
