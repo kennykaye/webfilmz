@@ -18,6 +18,8 @@
   "homepage": "https://github.com/kennykaye/webfilmz",
   "dependencies": {
     "express": "^4.12.2",
+    "lodash": "^3.5.0",
+    "mathjs": "^1.4.0",
     "mongoose": "^3.8.24",
     "morgan": "^1.5.1"
   },
